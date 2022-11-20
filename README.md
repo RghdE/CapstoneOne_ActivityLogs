@@ -11,7 +11,7 @@ File Structure:
 
 --> Preprocessed_full_dataset
 
---> Final_extracted_dataset
+--> Final_extracted_dataset (this is the only one that could be uploaded)
 
 - Notebooks:
 
