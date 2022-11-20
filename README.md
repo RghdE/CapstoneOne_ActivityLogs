@@ -26,4 +26,4 @@ File Structure:
 - Presentation
 - Dashboard
 
-For a more detailed analysis, steps on creating the project you can visit our [Web Plog](https://medium.com/@raghdution/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559)
+For a more detailed analysis and steps on creating the project, you can visit our [Web Plog](https://medium.com/@raghdution/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559)
