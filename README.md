@@ -121,7 +121,7 @@ Selecting the features *after* removing the data leakage:
 
 Based on our [EDA](https://medium.com/@raghdution/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa55), we found that 80% of our users are regular visitors, while only 17% are investors, thus, we wanted to create two dashboards for these two user types.
 
-Vistors dashboard:
+Visitors dashboard:
 
 <img width="718" alt="dash1" src="https://user-images.githubusercontent.com/53378171/209436098-559d6bbc-ae15-47ce-96ba-596542ee5aee.png">
 
