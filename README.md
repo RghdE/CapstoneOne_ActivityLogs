@@ -93,7 +93,7 @@ We hope to answer all of these questions in our analysis.
 
 ## Preprocessing Overview 
 
-Preprocessing is the essence of this project. In this README file, we will be listing the overview of each step. However, for a more detailed description, visit our [Medium Blog Post](https://medium.com/@raghdution/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559). 
+Preprocessing is the essence of this project. In this README file, we will be listing the overview of each step. However, for a more detailed description, visit our [Medium Blog Post](https://medium.com/@RghdE/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559). 
 
 The dataset before and after the preprocessing:
 
@@ -119,7 +119,7 @@ Selecting the features *after* removing the data leakage:
 
 ## Visualization
 
-Based on our [EDA](https://medium.com/@raghdution/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa55), we found that 80% of our users are regular visitors, while only 17% are investors, thus, we wanted to create two dashboards for these two user types.
+Based on our [EDA](https://medium.com/@RghdE/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559), we found that 80% of our users are regular visitors, while only 17% are investors, thus, we wanted to create two dashboards for these two user types.
 
 Visitors dashboard:
 
@@ -128,6 +128,8 @@ Visitors dashboard:
 Investors dashboard:
 
 <img width="721" alt="dash2" src="https://user-images.githubusercontent.com/53378171/209436094-128b4d7e-085c-4dfd-aad2-255aa83dc4d7.png">
+
+As mentioned above, you can visit [our web blog](https://medium.com/@RghdE/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559) for a detailed analysis of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
