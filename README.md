@@ -72,6 +72,7 @@ The purpose of this project is to predict potential customers for a FinTech star
 * Plotly
 * Sklearn
 * Imbalanced-learn
+* Power BI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
